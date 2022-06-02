@@ -23,7 +23,9 @@ User-based Here we find similar past preference patterns This is achieved by mak
 Taste of peope may change - Fickle-minded
 Users >>>> Items - hence difficult to maintain such large matrix
 Fake users may make our alogrithm biased
-Item-based find similar movies instead of similar users and then recommending similar movies to that ‘A’ has had in his/her past preferences ##### Advantages over User-based
+Item-based find similar movies instead of similar users and then recommending similar movies to that ‘A’ has had in his/her past preferences 
+#### Advantages 
+over User-based
 Movie's don't change - like people's taste
 easier to maintian matrices of items
 movies cannot be fake
